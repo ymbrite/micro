@@ -1,4 +1,5 @@
 module github.com/zyedidia/micro/v2
+module github.com/flynn/json5
 
 require (
 	github.com/blang/semver v3.5.1+incompatible
